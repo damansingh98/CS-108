@@ -1,3 +1,5 @@
+//author: Damandeep Singh
+
 import java.util.Arrays;
 interface LinearListADT<T> {
 
