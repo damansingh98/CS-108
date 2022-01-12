@@ -1,3 +1,5 @@
+//Author: Damandeep Singh
+
 public class Program4 {
     //Client class and program
     public static void main(String[] args) {
