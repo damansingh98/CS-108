@@ -1,1 +1,1 @@
-# CS108
+# Intermediate Java Programming
